@@ -26,15 +26,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCB2F?style=for-the-badge&logo=firebase&logoColor=white)
 
-## ⚙️ Programming Tools:
-
-[<img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>](https://github.com/)
-[<img alt="git" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>](https://git-scm.com/)
-[<img alt="nodeJS" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png"/>](https://nodejs.org/)
-[<img alt="webstorm" width="65px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"/>](https://www.jetbrains.com/webstorm/)
-[<img alt="vscode" width="50px" src="https://i.imgur.com/A9ytwO6.png"/>](https://code.visualstudio.com/)
-[<img alt="docker" width="50px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/>](https://www.docker.com/)
-
 ## 🔧 OS:
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -43,10 +34,9 @@
 ## 🚩 Projects:
   | Name                  | Link                                      | Description                                                                 |
   |-----------------------|-------------------------------------------|-----------------------------------------------------------------------------|
-  | [Planify](https://github.com/votre-compte/planify) | [Planify](https://github.com/votre-compte/planify) | SaaS de gestion de projets scolaires.                                        |
-  | [Pokédex iOS](https://github.com/votre-compte/pokedex-ios) | [Pokédex iOS](https://github.com/votre-compte/pokedex-ios) | Application iOS de Pokédex développée avec SwiftUI.                           |
-  | [Minecraft-like Game](https://github.com/votre-compte/minecraft-like-game) | [Minecraft-like Game](https://github.com/votre-compte/minecraft-like-game) | Moteur de jeu en 3D inspiré de Minecraft avec Java et LWJGL.                   |
-  | [Terraria Web Game](https://github.com/votre-compte/terraria-web) | [Terraria Web Game](https://github.com/votre-compte/terraria-web) | Recréation de Terraria sur le web.                                           |
+  | [CollabHub](https://github.com/CapelleGab/CollabHub) | [CollabHub](https://github.com/CapelleGab/CollabHub) | Outils de gestion de projet (Jira-like)                  |
+  | [JokeVote](https://github.com/CapelleGab/JokeVote) | [JokeVote](https://github.com/CapelleGab/JokeVote) | Générateur de blague.                                        |
+  | [Pokédex](https://github.com/CapelleGab/pokedex-react) | [Pokédex](https://github.com/CapelleGab/pokedex-react) | Application Web de Pokédex.                           |
 
 <p align="center"> 
   Visitor count<br>
