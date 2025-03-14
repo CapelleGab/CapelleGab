@@ -1,6 +1,6 @@
 ### Hi, I'm Gabin, currently 18 years old. I'm a student in computer science, and I love creating projects and learning new things. On this GitHub, you'll find various open-source projects. Have fun!
 
-- 🔭 I'm currently working on a [CollabHub](https://github.com/CapelleGab/CollabHub) and a [SaaS for project management](https://github.com/votre-compte/planify).
+- 🔭 I'm currently working on a [CollabHub](https://github.com/CapelleGab/CollabHub).
 - 💻 I use [Windsurf](https://codeium.com/windsurf), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PHPStorm](https://www.jetbrains.com/phpstorm/), and [Docker](https://www.docker.com/).
 - 📫 How to reach me: [Discord](https://discord.gg/DWcEw9MSg5) & [Mail](mailto:gabin.capelle.pro@gmail.com).
 - 🇫🇷 I live and study in Paris.
