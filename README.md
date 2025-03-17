@@ -40,7 +40,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/votre-compte/count.svg" />
+  <img src="https://profile-counter.glitch.me/CapelleGab/count.svg" />
 </p>
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=CapelleGab&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapelleGab&hide_border=true&theme=dracula" />
