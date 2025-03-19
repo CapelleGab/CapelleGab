@@ -34,6 +34,7 @@
 ## 🚩 Projects:
   | Name                  | Link                                      | Description                                                                 |
   |-----------------------|-------------------------------------------|-----------------------------------------------------------------------------|
+  | [PDF2Markdown](https://github.com/CapelleGab/PDF2Markdown) | [PDF2Markdown](https://github.com/CapelleGab/PDF2Markdown)  | Plugin PDF to Markdown pour Obsidian                  |
   | [CollabHub](https://github.com/CapelleGab/CollabHub) | [CollabHub](https://github.com/CapelleGab/CollabHub) | Outils de gestion de projet (Jira-like)                  |
   | [JokeVote](https://github.com/CapelleGab/JokeVote) | [JokeVote](https://github.com/CapelleGab/JokeVote) | Générateur de blague.                                        |
   | [Pokédex](https://github.com/CapelleGab/pokedex-react) | [Pokédex](https://github.com/CapelleGab/pokedex-react) | Application Web de Pokédex.                           |
