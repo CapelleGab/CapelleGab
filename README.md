@@ -33,6 +33,7 @@
 ## 🚩 Projects:
   | Name                  | Link                                      | Description                                                                 |
   |-----------------------|-------------------------------------------|-----------------------------------------------------------------------------|
+  | [Say.It](https://github.com/CapelleGab/Say.it) | [Say.It](https://github.com/CapelleGab/Say.it)  | WebApp pour retrouver les séquences de citation que tu as en tête                  |
   | [PDF2Markdown](https://github.com/CapelleGab/PDF2Markdown) | [PDF2Markdown](https://github.com/CapelleGab/PDF2Markdown)  | Plugin PDF to Markdown pour Obsidian                  |
   | [CollabHub](https://github.com/CapelleGab/CollabHub) | [CollabHub](https://github.com/CapelleGab/CollabHub) | Outils de gestion de projet (Jira-like)                  |
   | [JokeVote](https://github.com/CapelleGab/JokeVote) | [JokeVote](https://github.com/CapelleGab/JokeVote) | Générateur de blague.                                        |
