@@ -1,12 +1,14 @@
 ### Hi, I'm Gabin, currently 18 years old. I'm a student in computer science, and I love creating projects and learning new things. On this GitHub, you'll find various open-source projects. Have fun!
 
+My [CV](https://capellegab.github.io/myCV/)
+
+
 - 🔭 I'm currently working on a [Git-Tutor](https://github.com/CapelleGab/Git-Tutor).
 - 💻 I use [Cursor](https://www.cursor.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PHPStorm](https://www.jetbrains.com/phpstorm/), and [Docker](https://www.docker.com/).
 - 📫 How to reach me: [Discord](https://discord.gg/DWcEw9MSg5) & [Mail](mailto:gabin.capelle.pro@gmail.com).
 - 🇫🇷 I live and study in Paris.
 
 (README inspired by [Evaninoo](https://github.com/Evaninoo))<br/>
-[CV](https://capellegab.github.io/myCV/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CapelleGab&theme=discord&margin-w=60&no-bg=true&no-frame=true)](https://github.com/CapelleGab)
 
