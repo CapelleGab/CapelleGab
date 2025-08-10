@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Discord](https://discord.gg/DWcEw9MSg5) & [Mail](mailto:gabin.capelle.pro@gmail.com).
 - 🇫🇷 I live and study in Paris.
 
-(README inspired by [Evaninoo](https://github.com/Evaninoo))
+(README inspired by [Evaninoo](https://github.com/Evaninoo))<br/>
 [CV](https://capellegab.github.io/myCV/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CapelleGab&theme=discord&margin-w=60&no-bg=true&no-frame=true)](https://github.com/CapelleGab)
