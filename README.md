@@ -6,6 +6,7 @@
 - 🇫🇷 I live and study in Paris.
 
 (README inspired by [Evaninoo](https://github.com/Evaninoo))
+[CV](https://capellegab.github.io/myCV/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CapelleGab&theme=discord&margin-w=60&no-bg=true&no-frame=true)](https://github.com/CapelleGab)
 
