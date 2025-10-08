@@ -3,7 +3,7 @@
 My [CV](https://capellegab.github.io/myCV/)
 
 
-- 🔭 I'm currently working on a [Git-Tutor](https://github.com/CapelleGab/Git-Tutor).
+- 🔭 I'm currently working on a [Git-Tutor](https://github.com/CapelleGab/Git-Tutor).   <img src="https://visitor-badge.laobi.icu/badge?page_id=CapelleGab.CapelleGab&"  />
 - 💻 I use [Cursor](https://www.cursor.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PHPStorm](https://www.jetbrains.com/phpstorm/), and [Docker](https://www.docker.com/).
 - 📫 How to reach me: [Discord](https://discord.gg/DWcEw9MSg5) & [Mail](mailto:gabin.capelle.pro@gmail.com).
 - 🇫🇷 I live and study in Paris.
@@ -40,9 +40,5 @@ My [CV](https://capellegab.github.io/myCV/)
   | [JokeVote](https://github.com/CapelleGab/JokeVote) | [JokeVote](https://github.com/CapelleGab/JokeVote) | Générateur de blague.                                        |
   | [Pokédex](https://github.com/CapelleGab/pokedex-react) | [Pokédex](https://github.com/CapelleGab/pokedex-react) | Application Web de Pokédex.                           |
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CapelleGab.CapelleGab&"  />
-</p>
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=CapelleGab&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapelleGab&hide_border=true&theme=dracula" />
