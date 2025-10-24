@@ -1,4 +1,4 @@
-### Hi, I'm Gabin, currently 18 years old. I'm a student in computer science, and I love creating projects and learning new things. On this GitHub, you'll find various open-source projects. Have fun!
+### Hi, I'm Gabin, currently 19 years old. I'm a student in computer science, and I love creating projects and learning new things. On this GitHub, you'll find various open-source projects. Have fun!
 
 My [CV](https://capellegab.github.io/myCV/)
 
