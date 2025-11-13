@@ -3,7 +3,7 @@
 My [CV](https://capellegab.github.io/myCV/)
 
 
-- 🔭 I'm currently working on a [Git-Tutor](https://github.com/CapelleGab/Git-Tutor).   <img src="https://visitor-badge.laobi.icu/badge?page_id=CapelleGab.CapelleGab&"  />
+- 🔭 I'm currently working on a [Cookit](https://github.com/coookiit/).   <img src="https://visitor-badge.laobi.icu/badge?page_id=CapelleGab.CapelleGab&"  />
 - 💻 I use [Cursor](https://www.cursor.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PHPStorm](https://www.jetbrains.com/phpstorm/), and [Docker](https://www.docker.com/).
 - 📫 How to reach me: [Discord](https://discord.gg/DWcEw9MSg5) & [Mail](mailto:gabin.capelle.pro@gmail.com).
 - 🇫🇷 I live and study in Paris.
