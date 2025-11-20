@@ -8,8 +8,6 @@ My [CV](https://capellegab.github.io/myCV/)
 - 📫 How to reach me: [Discord](https://discord.gg/DWcEw9MSg5) & [Mail](mailto:gabin.capelle.pro@gmail.com).
 - 🇫🇷 I live and study in Paris.
 
-(README inspired by [Evaninoo](https://github.com/Evaninoo))<br/>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=CapelleGab&theme=discord&margin-w=60&no-bg=true&no-frame=true)](https://github.com/CapelleGab)
 
 ## 🌍 Programming languages:
